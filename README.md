@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Pedro 👋<br><br>🔭 Working on teaching, research in computer vision, and technical hardware/software development.<br>🌱 Master’s student in Electrical and Computer Engineering – Automation and Robotics at IPCA.<br>👯 Open to collaborate on computer vision and machine learning projects.<br>🤔 Looking for help with 3D modeling from text prompts.</h2>
+<h2 align="left">Hi there, I'm Pedro 👋<br><br>🔭 Working on teaching, research in computer vision, and technical hardware/software development.<br>🌱 Master’s student in Electrical and Computer Engineering – Automation and Robotics at Instituto Politécnico do Cávado e do Ave in Portugal.<br>👯 Open to collaborate on computer vision and machine learning projects.<br>🤔 Looking for help with 3D modeling from text prompts.</h2>
 
 ###
 
